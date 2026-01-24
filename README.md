@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, there! 👋
+
+I am Najib Qunoo, a student of Computer Science in the Bachelor of Science at the University of Tübingen.
+My desired work-fields are Cyber Security and Software-Engineering.
 
 <!--
 **najib105q/najib105q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
