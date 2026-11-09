@@ -1,19 +1,25 @@
-## Hi, there! 👋
+# Najib
 
-I am Najib Qunoo, a student of Computer Science in the Bachelor of Science at the University of Tübingen.
-My desired work-fields are Cyber Security and Software-Engineering.
+Student • Programmer • Problem Solver
 
-<!--
-**najib105q/najib105q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building small tools that combine mathematics, logic, and programming.
 
-Here are some ideas to get you started:
+### Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mathematics
+- Logic
+- Algorithms
+- Computer Science
+- Web Development
+- Cyber Security
+- Artificial Intelligence
+
+### Currently
+
+- Learning new programming concepts
+- Improving problem-solving skills
+- Working on CLI projects
+
+---
+
+*"Learning something new every day."*
